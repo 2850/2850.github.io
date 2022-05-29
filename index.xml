@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>willis.ko Blog</title>
+        <link>http://2850.github.io/</link>
+        <description>willis.ko Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 29 May 2022 14:51:48 &#43;0800</lastBuildDate>
+            <atom:link href="http://2850.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://2850.github.io/posts/first_post/</link>
+    <pubDate>Sun, 29 May 2022 14:51:48 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://2850.github.io/posts/first_post/</guid>
+    <description><![CDATA[some code string test = &#34;&#34;; # some code echo &#34;Hello world&#34; ]]></description>
+</item></channel>
+</rss>
