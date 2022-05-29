@@ -11,6 +11,6 @@
     <pubDate>Sun, 29 May 2022 14:51:48 &#43;0800</pubDate>
     <author>Author</author>
     <guid>http://2850.github.io/posts/first_post/</guid>
-    <description><![CDATA[some code string test = &#34;&#34;; # some code echo &#34;Hello world&#34; ]]></description>
+    <description><![CDATA[{  &#34;Version&#34;: &#34;2012-10-17&#34;,  &#34;Statement&#34;: [  {  &#34;Sid&#34;: &#34;Stmt1653346692667&#34;,  &#34;Action&#34;: [  &#34;s3:CreateAccessPoint&#34;,  &#34;s3:CreateBucket&#34;  ],  &#34;Effect&#34;: &#34;Allow&#34;,  &#34;Resource&#34;: &#34;arn:aws:s3:::${BucketName}/${KeyName}.&#34;,  &#34;Condition&#34;: {  &#34;Bool&#34;: {  &#34;aws:userid&#34;: &#34;TEST&#34;  }  }  }  ] } # some code echo &#34;Hello world&#34;   ]]></description>
 </item></channel>
 </rss>
